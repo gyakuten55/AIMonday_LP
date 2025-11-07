@@ -5,6 +5,6 @@
 
 <header class="site-header">
   <div class="site-header__inner">
-    <img src="./images/logo.png" class="site-logo">
+    <img src="./images/logo.png" class="site-logo" alt="AI Monday - ブルーマンデーをワクワクマンデーに！" title="AI Monday ロゴ">
   </div>
 </header>
